@@ -2,11 +2,11 @@ import io
 
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
+# import torch.nn.functional as F
 import torchvision.transforms as transforms
 from PIL import Image
-from torch.utils.data import random_split
-from torch.utils.data.dataloader import DataLoader
+# from torch.utils.data import random_split
+# from torch.utils.data.dataloader import DataLoader
 from torchvision import models
 import streamlit as st
 
